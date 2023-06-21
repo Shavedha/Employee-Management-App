@@ -1,3 +1,4 @@
+# EMPLOYEE MANAGEMENT APP USING REACT, SPRINGBOOT AND SQL
 ## AIM
 To create an Employee Management App using React,SpringBoot and SQL
 ## ALGORITHM
@@ -13,6 +14,7 @@ To create an Employee Management App using React,SpringBoot and SQL
 9. Connect with the backend server and view the output user interface in the browser.
 
 # PROGRAM
+### SpringBoot Program
 ### Employee.java
 ```
 package com.saveetha.employee.emp;
@@ -143,6 +145,7 @@ public class EmployeeController {
     }
 }
 ```
+### React Program
 ### EmployeeDirectoryComponent.js
 ```
 import React, { useEffect, useState } from 'react'
